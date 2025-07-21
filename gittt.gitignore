@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+.py
+
+# Generated model files
+.pkl
+
+# Streamlit credential files
+.streamlit/
+
+# VS Code editor files
+.vscode/
